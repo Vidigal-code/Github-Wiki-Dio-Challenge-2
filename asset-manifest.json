@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Github-Wiki-Dio-Challenge-2/static/js/main.6db4ccf3.js",
+    "main.js": "/Github-Wiki-Dio-Challenge-2/static/js/main.e5df0764.js",
     "static/media/github.png": "/Github-Wiki-Dio-Challenge-2/static/media/github.4d74fd76ac168df7723c.png",
     "index.html": "/Github-Wiki-Dio-Challenge-2/index.html",
-    "main.6db4ccf3.js.map": "/Github-Wiki-Dio-Challenge-2/static/js/main.6db4ccf3.js.map"
+    "main.e5df0764.js.map": "/Github-Wiki-Dio-Challenge-2/static/js/main.e5df0764.js.map"
   },
   "entrypoints": [
-    "static/js/main.6db4ccf3.js"
+    "static/js/main.e5df0764.js"
   ]
 }
