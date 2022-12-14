@@ -19,10 +19,10 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 
 ## Github-Wiki-Dio-Challenge-2:
 <p align="center">
-<a href="" target="_blank">Click Here to view the Project</a>
+<a href="https://vidigal-code.github.io/Github-Wiki-Dio-Challenge-2/" target="_blank">Click Here to view the Project</a>
 </p>
 <br/>
-<img align="center" src="" alt=""/>
+<img align="center" src="https://github.com/Vidigal-code/Github-Wiki-Dio-Challenge-2/blob/main/src/assets/GithubWiki.gif?raw=true" alt="GithubWiki"/>
 
 
 # Getting Started with Create React App
